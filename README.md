@@ -5,18 +5,10 @@ This repository contains a multilingual corpus of Russian and Italian fairy tale
 ## Project Structure
 
 fairy_tales/
-│
-├── data/
-│ ├── russian_fairy_tales.txt # Сборник русских сказок (в .txt формате)
-│ └── italian_fairy_tales.txt # Raccolta di fiabe italiane (in formato .txt)
-│
-├── fairy_tale_analysis.ipynb # Jupyter notebook с кодом на Python (Google Colab)
-│
-└── README.md # Описание проекта
-
-markdown
-Копировать
-Редактировать
+data:
+russian_fairy_tales "full-texta" # Сборник русских сказок
+italian_fairy_tales "ital_text" # Raccolta di fiabe italiane
+fairy_tale_analysis.ipynb
 
 ## Description
 
