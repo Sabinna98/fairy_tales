@@ -16,6 +16,7 @@ This project aims to provide a basic linguistic and stylistic comparison between
 - Python notebook for:
   - Tokenization
   - Visualization: word clouds, bar plots
+- Colab link: https://colab.research.google.com/drive/1YEdejU2bZKn_gmsV-uSK6lkgEh7H6WLd?authuser=1#scrollTo=xmhMqsw9I98b
 
 The notebook is written in Python and optimized for execution in Google Colab.
 
